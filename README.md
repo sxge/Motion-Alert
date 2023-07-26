@@ -1,4 +1,3 @@
-# Motion_Alert
 # Motion_Alert [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 #### This is an conceptual security system which detects any movement and notifies the user.
 #### This project is made using Python OpenCV module.
